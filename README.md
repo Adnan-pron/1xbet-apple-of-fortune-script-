@@ -1,6 +1,6 @@
 # 🎯 1xbet Apple of Fortune Script 🎯
 
-![Script Working Video](https://github.com/Adnan-pron/1xbet-apple-of-fortune-script-/commit/65e6747f99aab1e5d9c8700162f83bb9329d0ffa)
+[![Script Working Video](https://img.youtube.com/vi/grFpd11Bncw/0.jpg)](https://youtube.com/shorts/grFpd11Bncw)
 
 Welcome to the 1xbet Apple of Fortune Script repository! This script guarantees unlimited wins with 100% accuracy. It's designed to help you win consistently in the Apple of Fortune game on 1xbet. 
 
